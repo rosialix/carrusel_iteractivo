@@ -289,14 +289,14 @@ document.addEventListener("DOMContentLoaded", function () {
     topSlider,
     professionalTestimonials,
     createProfessionalCard,
-    "right",
+    "left",
     "top"
   );
   initSlider(
     bottomSlider,
     customerTestimonials,
     createCustomerCard,
-    "left",
+    "right",
     "bottom"
   );
 });
