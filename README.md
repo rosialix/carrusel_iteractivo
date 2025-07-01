@@ -4,3 +4,7 @@ El desarrollo consta en crear 2 carruseles que tengo desplazamiento contrario, e
 y el carrusel inferior de derecha a izquierda. El ciclo del carrusel es infinito, a su vez al realizar hover a un card se detendra el carrusel, en caso que
 el usuario desee detener para detallar la informacion.
 Al refrescar la pagina presentara la card siguiente de la ultima visualizada.
+
+
+![image](https://github.com/user-attachments/assets/271fba6a-72cf-449c-a186-d35e8424eb1f)
+
